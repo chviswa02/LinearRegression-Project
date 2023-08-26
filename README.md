@@ -1,5 +1,9 @@
 # LinearRegression-Project
-PREDICT THE HEART DISEASE FOR ORGANISATION W.H.O.[WORLD HEALTH ORGANISATION],USING MACHINE LEARNING ALGORITHM RATE OF HEART ATTACK DISEASE WILL INCREASING OR DECREASING MANNER.
+
+*PREDICT THE HEART DISEASE FOR ORGANISATION W.H.O.[WORLD HEALTH ORGANISATION],USING MACHINE LEARNING ALGORITHM RATE OF HEART ATTACK DISEASE WILL INCREASING OR DECREASING MANNER.
+
+**Problem Statement**:
+
 W.H.O["WORLD HEALTH ORGANISATION"]ESTIMATED 12million THEIR RECORDS.ONE OF THEM HALF OF THEIR RESULT IS FOUND IN U.S.THE RESEARCH INTENDERS/SCHOLAR POINT OUT THE MOST RELEVANT RISK FACTOR OF HEART ATTACK. AS A DATA SCIENCE ENGINEER PREDICT THE OVERALL RISK USING MACHINE LEARNING ALGORITHM CALLED AS "LOGISTIC REGRESSION" 
 
 TASK:
@@ -19,4 +23,13 @@ TASK:
 ![image](https://github.com/chviswa02/LinearRegression-Project/assets/143176195/7e6caa7f-b868-4940-b197-7bd2c5d2b2cf)
 
 ##PROJECT ACCURACY
-![image](https://github.com/chviswa02/LinearRegression-Project/assets/143176195/5301f1fc-c0bd-493a-b0c8-53f07ec11a26)
+![image](https://github.com/chviswa02/LinearRegression-Project/assets/143176195/2e4963e0-bfa0-4f34-8bdc-a6f4a41eb1b3)
+
+![image](https://github.com/chviswa02/LinearRegression-Project/assets/143176195/9256fa88-5fad-4fab-aaae-0462133a27f3)
+
+**Conclusion** : 
+  ->According to model analysis the LogisticRegression algorithm works suceussfully with , the accuracy shows that building the model is sucessful
+
+
+
+
